@@ -1,2 +1,3 @@
 TEST REPO for codeschool course GIT REAL
-edited version 3.10.2015
+Adding text to test git diff functionality
+edited version 03.10.2015
